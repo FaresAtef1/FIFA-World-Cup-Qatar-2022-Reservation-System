@@ -9,6 +9,7 @@ upcoming and previous matches and view ticket prices. Guests and registered fans
 to check out the players and the managers of all the WCQ2022 teams.
 
 
+
 ![Screenshot_20221208_085602](https://user-images.githubusercontent.com/96792115/227672745-60d10401-df27-452a-9241-aaf1572d9734.png)
 
 ![Screenshot_20230130_012608](https://user-images.githubusercontent.com/96792115/227674749-27a6871e-afc9-4381-95d8-dc6978c73d28.png)
